@@ -1,6 +1,6 @@
 module.exports = {
-    title: "VuePress with Netlify CMS demo site", 
-    description: "Netlify template",
+    title: "My First Vuepress Site", 
+    description: "Welcome to my first VuePress site",
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
