@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-with-netlify-cms",
+  "version": "1.0.0",
+  "description": "A website starter template with the default VuePress theme and Netlify CMS config",
+  "main": "index.md",
+  "scripts": {
+    "build": "vuepress build",
+    "dev": "vuepress dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p440davis/VuePress-with-Netlify-CMS.git"
+  },
+  "keywords": [
+    "VuePress",
+    "Netlify",
+    "Netlify CMS",
+    "Netlify template"
+  ],
+  "author": "Pete Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p440davis/VuePress-with-Netlify-CMS/issues"
+  },
+  "homepage": "https://github.com/p440davis/VuePress-with-Netlify-CMS#readme",
+  "devDependencies": {
+    "vuepress": "latest"
+  }
+}
