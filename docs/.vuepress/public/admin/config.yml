@@ -24,7 +24,7 @@ collections:
             widget: list
             fields:
               - {label: "Title", name: "title", widget: "string"}
-              - {label: "Detail", name: "detail", widget: "string"}
+              - {label: "Details", name: "details", widget: "string"}
           - {label: "Footer", name: "footer", widget: "string"}
           - {label: "Body", name: body, widget: markdown}
   - label: "Pages"
