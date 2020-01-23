@@ -7,17 +7,15 @@ actionText: Get Started →
 actionLink: /guide/
 features:
   - details: >-
-      Create and edit your content with Netlify's Git-based content management
-      workflow.
-    title: Git-powered CMS
+      Use Netlify CMS to create and manage markdown content within your Git
+      repo.
+    title: Git-powered content workflow
+  - details: Use Vue components in your markdown and to create your own custom theme.
+    title: Vue-powered development
   - details: >-
-      Create your own custom theme with Vue.js and use Vue components in
-      markdown for dynamic features.
-    title: Enhance with Vue
-  - details: >-
-      VuePress generates static HTML for fast page load, then runs as an SPA for
-      seamless browsing.
-    title: Deliver epic performance
+      VuePress generates static HTML for fast first page load, then browses as
+      an SPA.
+    title: '"Best of both worlds" performance'
 footer: Template maintained by Pete Davis | MIT Licensed
 ---
 \# Hello world!
