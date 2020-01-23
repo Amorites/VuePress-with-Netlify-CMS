@@ -15,13 +15,15 @@ backend:
 
 You can use [Netlify Identity](https://docs.netlify.com/visitor-access/identity/) to authenticate CMS users, but to start off, it's simplest to give yourself access with GitHub OAuth.
 
-Go to your [developer settings on GitHub](https://github.com/settings/developers) and add a new OAuth app.
-
-Enter the name and full URL of your Netlify site and this authorization callback URL:
+1. Go to your [developer settings on GitHub](https://github.com/settings/developers) and add a new OAuth app.
+2. Enter the name and full URL of your Netlify site and this authorization callback URL:
 
 ```
 https://api.netlify.com/auth/done
 ```
+3. Click Register application to get your Client ID and Client Secret. You will need these in a moment.
+4. In your site Settings, open 'Access control'. Under OAuth, click 'Install provider' and copy in the Client ID and Secret from [GitHub](https://github.com/settings/developers).
+
 You should now be able to visit the /admin page on your website and login with GitHub.
 
 ## Contribute
