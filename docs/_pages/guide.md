@@ -32,7 +32,7 @@ https://api.netlify.com/auth/done
 
 You should now be able to visit the /admin page on your website and login with GitHub.
 
-## Next...
+## Read the docs!
 
 [Official VuePress guide](https://vuepress.vuejs.org/guide/)
 
