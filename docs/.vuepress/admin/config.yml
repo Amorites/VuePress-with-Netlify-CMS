@@ -1,0 +1,37 @@
+backend:
+  name: github
+  repo: p440davis/VuePress-with-Netlify-CMS
+media_folder: "docs/.vuepress/public/media"
+public_folder: "/media"
+publish_mode: editorial_workflow
+collections:
+  - label: "Home"
+    name: "home"
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "docs/index.md"
+        delete: false
+        fields:
+          - {label: "Home", name: "home", widget: "hidden", default: true}
+          - {label: "Hero image", name: "heroImage", widget: "image" }
+          - {label: "Hero text", name: "heroText", widget: "string"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Action text", name: "actionText", widget: "string"}
+          - {label: "Action link", name: "actionLink", widget: "string"}
+          - label: Features
+            name: features
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Detail", name: "detail", widget: "string"}
+          - {label: "Footer", name: "footer", widget: "string"}
+          - {label: "Body", name: body, widget: markdown}
+  - label: "Pages"
+    name: "pages"
+    folder: "docs/_pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/:slug"}

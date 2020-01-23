@@ -4,8 +4,8 @@
   "description": "A website starter template with the default VuePress theme and Netlify CMS config",
   "main": "index.md",
   "scripts": {
-    "build": "vuepress build",
-    "dev": "vuepress dev"
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs"
   },
   "repository": {
     "type": "git",
