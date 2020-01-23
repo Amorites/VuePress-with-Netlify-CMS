@@ -6,16 +6,14 @@ tagline: A starter template for your JAMstack website
 actionText: Get Started →
 actionLink: /guide/
 features:
-  - details: >-
-      Use Netlify CMS to create and manage markdown content within your Git
-      repo.
-    title: Git-powered content workflow
-  - details: Use Vue components in your markdown and to create your own custom theme.
+  - details: Use Netlify CMS to create and manage your content within your Git repo.
+    title: Git-powered content
+  - details: Create your own custom theme and use Vue components in your content.
     title: Vue-powered development
   - details: >-
-      VuePress generates static HTML for fast first page load, then browses as
-      an SPA.
-    title: '"Best of both worlds" performance'
+      VuePress generates static html for fast page load, then runs as a slick
+      SPA.
+    title: '"Best of both" performance'
 footer: Template maintained by Pete Davis | MIT Licensed
 ---
 
