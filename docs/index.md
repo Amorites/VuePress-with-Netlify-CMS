@@ -18,4 +18,4 @@ features:
     title: '"Best of both worlds" performance'
 footer: Template maintained by Pete Davis | MIT Licensed
 ---
-\# Hello world!
+
