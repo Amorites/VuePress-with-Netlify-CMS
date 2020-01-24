@@ -10,7 +10,7 @@
 <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 
-    <script>
+    <script type="module">
         import styles from '!css-loader!stylus-loader!@vuepress/theme-default/styles/index.styl'
         CMS.registerPreviewStyle(styles.toString(), { raw: true });
     </script>
