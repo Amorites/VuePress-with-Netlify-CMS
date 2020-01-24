@@ -152,3 +152,14 @@ td {
 .custom-block.danger a {
   color: #2c3e50;
 }
+
+/* Do not display title in Preview */
+div[class$="-PreviewContainer"] > div:first-child h1 {
+    color: gray;
+    font-size: 0.8rem;
+    font-weight: normal;
+}
+
+div[class$="-PreviewContainer"] > div:first-child h1::after {
+    content: " | Site Title"
+}
