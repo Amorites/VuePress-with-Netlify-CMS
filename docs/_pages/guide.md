@@ -16,7 +16,7 @@ backend:
   repo: username/repo
 ```
 
-### Enable CMS login with GitHub OAuth
+### Enable login with GitHub OAuth
 
 You can use [Netlify Identity](https://docs.netlify.com/visitor-access/identity/) to authenticate CMS users, but to start off, it's simplest to give yourself access with GitHub OAuth.
 
