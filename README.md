@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6adff723-8d84-47f5-89cf-85f1c6711af0/deploy-status)](https://app.netlify.com/sites/vuepress-template/deploys)
+
 # VuePress with Netlify CMS
 A website starter template with the default VuePress theme and Netlify CMS config
 
