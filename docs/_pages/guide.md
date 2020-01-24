@@ -9,11 +9,9 @@ The best way to start is to hit this button:
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/p440davis/VuePress-with-Netlify-CMS&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-This is the fastest way to get your website going. You will initially be hosted on a random URL, but you can add your own domain name later in your "Domain settings" on Netlify.
+This will give you a GitHub repo and a website hosted by Netlify on a random URL. You can add your own domain name later in your "Domain settings" on Netlify.
 
-## GitHub template
-
-If you would prefer to just start with the git repo and deploy later, visit the [GitHub repo](https://github.com/p440davis/VuePress-with-Netlify-CMS) and click the "Use this template" button.
+Alternatively, you can just start with a Git repo and deploy later. Visit the [GitHub repo](https://github.com/p440davis/VuePress-with-Netlify-CMS) and click the "Use this template" button.
 
 ## Setup Netlify CMS
 
