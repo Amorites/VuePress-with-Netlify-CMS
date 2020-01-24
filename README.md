@@ -3,22 +3,23 @@
 # VuePress with Netlify CMS
 A website starter template with the default VuePress theme and Netlify CMS config.
 
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/p440davis/VuePress-with-Netlify-CMS&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
 ## Demo site
 [vuepress-template.netlify.com](https://vuepress-template.netlify.com/)
 
 ## Features
 ### VuePress "best of both" static site generator
-- Generates static html for every page so that your first page load is fast.
-- Once loaded, the site runs as a Single Page App (SPA), making it super slick.
-- Customise your site with Vue-powered theme development
-- Use Vue components within your markdown content to enhance your content
+- Generates static html for every page so that your first page load is super fast
+- Once loaded, the site runs as a Single Page App (SPA), making it super slick
 
 ### Default VuePress starter theme
 - Navbar
 - Homepage layout
 - Page layout
 - Sidebar with heading navigation
-- [Inherit from this default theme](https://vuepress.vuejs.org/theme/inheritance.html) or [create your own from scratch](https://vuepress.vuejs.org/theme/writing-a-theme.html)
+- Use Vue components within markdown to enhance your content
+- Customise your site by [inheriting from this default theme](https://vuepress.vuejs.org/theme/inheritance.html) or [create your own from scratch](https://vuepress.vuejs.org/theme/writing-a-theme.html)
 
 ### Netlify's CMS integration
 - User-friendly editor for your markdown files hosted at /admin on your website
