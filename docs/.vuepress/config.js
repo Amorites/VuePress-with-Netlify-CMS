@@ -1,5 +1,5 @@
 module.exports = {
-    title: "VuePress + Netlify CMS template", 
+    title: "VuePress template", 
     description: "Netlify template",
     themeConfig: {
         nav: [
@@ -9,7 +9,6 @@ module.exports = {
         ],
         sidebar: [
           '/_pages/guide',
-        ],
-        sidebarDepth: 3
+        ]
     }
 }
