@@ -370,3 +370,8 @@ div[class~="language-php"]:before {
   font-size: 0.8rem;
   color: #476582;
 }
+
+.frame-content > div > div:last-child * {
+  padding-top: 1.5em;
+  border-top: 1px solid #dfe2e5;
+}
