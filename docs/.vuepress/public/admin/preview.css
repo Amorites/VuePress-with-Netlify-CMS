@@ -368,10 +368,20 @@ div[class~="language-php"]:before {
 /* Style frontmatter in preview */
 .frame-content > div > div:not(:last-child) * {
   font-size: 0.8rem;
+  padding: 0 0 0.2rem;
   color: #476582;
 }
 
-.frame-content > div > div:last-child * {
+.frame-content > div > div:last-child {
   padding-top: 1.5em;
-  border-top: 1px solid #dfe2e5;
+  border-top: 1px solid #42b983;
+}
+
+.frame-content::before {
+  display: block;
+  content: "FRONTMATTER";
+  font-size: 0.6rem;
+  font-weight: bold;
+  color: #3eaf7c;
+  border-bottom: 1px solid #42b983;
 }
