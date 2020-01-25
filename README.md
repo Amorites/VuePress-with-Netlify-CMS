@@ -8,6 +8,8 @@ A website starter template with the default VuePress theme and Netlify CMS confi
 ## Demo site
 [vuepress-template.netlify.com](https://vuepress-template.netlify.com/)
 
+<a href="https://vuepress-template.netlify.com/"><img src="https://raw.githubusercontent.com/p440davis/VuePress-with-Netlify-CMS/master/docs/.vuepress/public/media/VuePress_%2B_Netlify_CMS.png" alt="" /></a>
+
 ## Features
 ### VuePress "best of both" static site generator
 - Generates static html for every page so that your first page load is super fast
