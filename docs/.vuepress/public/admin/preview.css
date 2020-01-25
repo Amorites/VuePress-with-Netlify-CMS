@@ -365,13 +365,8 @@ div[class~="language-php"]:before {
 }
 
 
-/* Do not display title in Preview */
-.frame-content > div > div:first-child {
-  background-color: #eee;
-  border-bottom: #ccc;
+/* Style frontmatter in preview */
+.frame-content > div > div:not(:last-child) * {
   font-size: 0.8rem;
-}
-
-.frame-content > div > div:first-child h1 {
-  font-size: 0.8rem;
+  color: #476582;
 }
