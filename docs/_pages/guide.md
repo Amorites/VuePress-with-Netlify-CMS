@@ -1,10 +1,14 @@
 ---
 title: Guide
+description: >-
+  How to use this template to create your new VuePress site, deploye it to
+  Netlify and connect up your CMS.
 permalink: '/:slug'
 ---
 # How to use this template
 
 ## Deploy to Netlify
+
 The best way to start is to hit this button:
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/p440davis/VuePress-with-Netlify-CMS&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
