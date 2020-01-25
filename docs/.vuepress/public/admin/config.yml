@@ -33,5 +33,6 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Meta description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/:slug"}
