@@ -22,8 +22,8 @@ A website starter template with the default VuePress theme and Netlify CMS confi
 - Customise your site by [inheriting from this default theme](https://vuepress.vuejs.org/theme/inheritance.html) or [create your own from scratch](https://vuepress.vuejs.org/theme/writing-a-theme.html)
 
 ### Netlify's CMS integration
-- User-friendly editor for your markdown files hosted at /admin on your website
-- Git-powered editorial workflow manages content directly inside your repo
+- User-friendly content editor with styled preview hosted at /admin on your website
+- Git-powered editorial workflow manages content in your repo automatically
 - Homepage fully configured with delete prevention
 - Page collection configured so that you can start creating content straight away
 
