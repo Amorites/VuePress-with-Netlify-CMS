@@ -2,7 +2,7 @@
   "name": "vuepress-with-netlify-cms",
   "version": "1.0.0",
   "description": "A website starter template with the default VuePress theme and Netlify CMS config",
-  "main": "index.md",
+  "main": "docs/index.md",
   "scripts": {
     "build": "vuepress build docs",
     "dev": "vuepress dev docs"
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/p440davis/VuePress-with-Netlify-CMS/issues"
   },
-  "homepage": "https://github.com/p440davis/VuePress-with-Netlify-CMS#readme",
+  "homepage": "https://vuepress-template.netlify.com",
   "devDependencies": {
     "vuepress": "latest"
   }
