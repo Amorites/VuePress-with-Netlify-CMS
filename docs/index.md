@@ -16,4 +16,4 @@ features:
     title: '"Best of both" performance'
 footer: Template maintained by Pete Davis | MIT Licensed
 ---
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/p440davis/VuePress-with-Netlify-CMS&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/p440davis/VuePress-with-Netlify-CMS&amp;stack=cms" style="display:block; text-align:center"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
