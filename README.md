@@ -7,13 +7,13 @@
 
 > VuePress default theme and Netlify CMS config for quick start
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/p440davis/VuePress-with-Netlify-CMS&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/petedavisdev/VuePress-with-Netlify-CMS&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 ## Demo site
 
 [vuepress-template.netlify.com](https://vuepress-template.netlify.com/)
 
-<a href="https://vuepress-template.netlify.com/"><img src="https://raw.githubusercontent.com/p440davis/VuePress-with-Netlify-CMS/master/docs/.vuepress/public/media/VuePress_%2B_Netlify_CMS.png" alt="" /></a>
+<a href="https://vuepress-template.netlify.com/"><img src="https://raw.githubusercontent.com/petedavisdev/VuePress-with-Netlify-CMS/master/docs/.vuepress/public/media/VuePress_%2B_Netlify_CMS.png" alt="" /></a>
 
 ## Features
 
