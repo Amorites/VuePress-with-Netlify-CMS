@@ -23,6 +23,6 @@
   },
   "homepage": "https://vuepress-template.netlify.com",
   "devDependencies": {
-    "vuepress": "latest"
+    "vuepress": "^1.4.1"
   }
 }
