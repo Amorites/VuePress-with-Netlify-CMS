@@ -59,10 +59,22 @@ npm run build
 
 After build the folder to deploy is `docs/.vuepress/dist`
 
-## Read the docs!
+## Read the docs
 
 [Official VuePress guide](https://vuepress.vuejs.org/guide/)
 
 [VuePress default theme config](https://vuepress.vuejs.org/theme/default-theme-config.html)
 
 [Netlify CMS docs](https://www.netlifycms.org/docs/intro/)
+
+## Contribute
+
+This template is default VuePress - so please give your [skills](https://github.com/vuejs/vuepress) or [money](https://opencollective.com/vuepress) to the [VuePress team](https://github.com/vuejs/vuepress).
+
+## Author
+
+Pete Davis
+
+- Website: [petedavis.dev](https://petedavis.dev)
+- Github: [@petedavisdev](https://github.com/petedavisdev)
+- Twitter: [@petedavisdev](https://twitter.com/petedavisdev)
