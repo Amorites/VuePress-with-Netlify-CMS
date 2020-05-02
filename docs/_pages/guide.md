@@ -44,7 +44,7 @@ You should now be able to visit the /admin page on your website and login with G
 
 ## Install and develop on your computer
 
-You will need [Node](https://nodejs.org/) installed on your computer. Run these commands inside your repo to install vuepress and start a live-updating development server:
+You will need [Node](https://nodejs.org/) installed on your computer. Run these commands inside your repo to install vuepress and start a live-reloading development server:
 
 ```sh
 npm i
