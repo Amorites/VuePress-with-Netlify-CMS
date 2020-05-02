@@ -1,9 +1,8 @@
 ---
 title: Guide
-description: >-
-  How to use this template to create your new VuePress site, deploye it to
-  Netlify and connect up your CMS.
-permalink: '/:slug'
+description: How to use this template to create your new VuePress site, deploye
+  it to Netlify and connect up your CMS.
+permalink: /:slug
 ---
 # How to use this template
 
@@ -19,7 +18,7 @@ Alternatively, you can just start with a Git repo and deploy later. Visit the [G
 
 ## Setup Netlify CMS
 
-Edit the `backend` config in `.vuepress/public/admin/config.yml` to point at your repo.
+Edit the `backend` config in `.vuepress/public/admin/config.yml` to point at your repo and deploy the change.
 
 ```
 backend:
@@ -42,6 +41,23 @@ https://api.netlify.com/auth/done
 4. In your site Settings, open 'Access control'. Under OAuth, click 'Install provider' and copy in the Client ID and Secret from [GitHub](https://github.com/settings/developers).
 
 You should now be able to visit the /admin page on your website and login with GitHub.
+
+## Install and develop on your computer
+
+You will need [Node](https://nodejs.org/) installed on your computer. Run these commands inside your repo to install vuepress and start a live-updating development server:
+
+```sh
+npm i
+npm run dev
+```
+
+### Build and deploy
+
+```sh
+npm run build
+```
+
+After build the folder to deploy is `docs/.vuepress/dist`
 
 ## Read the docs!
 
