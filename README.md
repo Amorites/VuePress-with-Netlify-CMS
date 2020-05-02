@@ -95,13 +95,22 @@ npm run dev   # live development
 npm run build   # production build in docs/.vuepress/dist
 ```
 
+## Read the docs
+
+[Official VuePress guide](https://vuepress.vuejs.org/guide/)
+
+[VuePress default theme config](https://vuepress.vuejs.org/theme/default-theme-config.html)
+
+[Netlify CMS docs](https://www.netlifycms.org/docs/intro/)
+
+## Contribute
+
+This template is default VuePress - so please give your [skills](https://github.com/vuejs/vuepress) or [money](https://opencollective.com/vuepress) to the [VuePress team](https://github.com/vuejs/vuepress).
+
 ## Author
 
 Pete Davis
 
 - Website: [petedavis.dev](https://petedavis.dev)
-- Github: [@p440davis](https://github.com/p440davis)
-
-## Contribute
-
-This template is default VuePress - so please give your [skills](https://github.com/vuejs/vuepress) or [money](https://opencollective.com/vuepress) to the [VuePress team](https://github.com/vuejs/vuepress).
+- Github: [@petedavisdev](https://github.com/petedavisdev)
+- Twitter: [@petedavisdev](https://twitter.com/petedavisdev)
